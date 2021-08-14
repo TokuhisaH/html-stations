@@ -1,0 +1,35 @@
+title{
+    color: #282828;
+    font-size: 14px;
+}
+
+body{
+    background-color: #C4C4C4;
+}
+
+header{
+    background-color: #fff;
+}
+
+p{
+    color: #282828;
+    font-size: 12px;
+}
+
+img{
+    width: 288px;
+    height: 182px;
+}
+
+.card__img-top{
+    margin-bottom: 10px;
+    background-color: #fff;
+}
+
+.card{
+    padding: 10px;
+}
+
+footer{
+    background-color: #ffffff;
+}
