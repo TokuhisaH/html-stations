@@ -1,4 +1,4 @@
-html{
+.card{
     background-color: fffff;
 }
 
@@ -15,9 +15,9 @@ p{
 img{
     width: 288px;
     height: 182px;
-    margin-bottom: 0px;
+    margin-bottom: 0;
 }
 
 .card{
-    padding-bottom: 0px;
+    padding-top: 0;
 }
