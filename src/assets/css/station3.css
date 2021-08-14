@@ -1,0 +1,23 @@
+html{
+    background-color: fffff;
+}
+
+title{
+    color: #282828;
+    font-size: 14px;
+}
+
+p{
+    color: #282828;
+    font-size: 12px;
+}
+
+img{
+    width: 288px;
+    height: 182px;
+    margin-bottom: 0px;
+}
+
+.card{
+    padding-bottom: 0px;
+}
