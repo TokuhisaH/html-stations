@@ -15,9 +15,12 @@ p{
 img{
     width: 288px;
     height: 182px;
-    margin-bottom: 0;
+}
+
+.card__img-top{
+    margin-bottom: 10;
 }
 
 .card{
-    padding-top: 0;
+    padding-top: 10px;
 }
